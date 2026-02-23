@@ -22,12 +22,14 @@
 ## 사용 방법
 
 ### 준엽/재평 (기획팀)
-- 기획 변경 → 해당 파일에 직접 댓글 or 영준한테 전달
+- 기획 변경 → 해당 파일에 직접 수정 or 레제한테 슬랙으로 말해도 됨
 - 세계관/용어 → `WORLDBUILDING.md`
 - 캐릭터 추가/수정 → `CHARACTERS.md`
-- 미션 설계 → `MISSION_DESIGN.md`
-- 화면 흐름 아이디어 → `UX_FLOW.md`
-- 수치/밸런스 → `ECONOMY.md`
+- 미션 설계/아이디어 → `MISSION_DESIGN.md`
+- 화면 흐름 변경 → `UX_FLOW.md`
+- 코인/뽑기 밸런스 → `ECONOMY.md`
+- 수치 히스토리 확인 → `BALANCE.md`
+- 선생님 기능 요청/아이디어 → `TEACHER.md` ⭐
 
 ### 영준 (개발)
 - 개발 전 해당 문서 확인
