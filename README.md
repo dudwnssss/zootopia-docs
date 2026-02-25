@@ -12,7 +12,7 @@
 | [WORLDBUILDING.md](./WORLDBUILDING.md) | 세계관, 용어, 빌더/마을 등급 | 전체 |
 | [CHARACTERS.md](./CHARACTERS.md) | 캐릭터 40종 목록, 등급, 대사 | 기획, 개발 |
 | [MISSION_DESIGN.md](./MISSION_DESIGN.md) | 미션 설계, 캐릭터×미션 매트릭스 | 기획 |
-| [UX_FLOW.md](./UX_FLOW.md) | 화면 흐름, 빌더/가이드 사용 시나리오 | 기획, 개발 |
+| [UX_FLOW.md](./UX_FLOW.md) | 화면 흐름, 빌더/가이드 사용 시나리오, **기능 배치 기준(IA 원칙)** | 기획, 개발 |
 | [ECONOMY.md](./ECONOMY.md) | 코인 경제 흐름, 밸런스 계산 | 기획, 개발 |
 | [BALANCE.md](./BALANCE.md) | 게임 수치 히스토리 (가챠 확률, 비용 등) | 개발 |
 | [TEACHER.md](./TEACHER.md) | 선생님 기능 요청 및 아이디어 | 기획 |
