@@ -77,7 +77,23 @@
 - 미션 설계 → `MISSION_DESIGN.md`
 - 화면 흐름 변경 → `UX_FLOW.md`
 - 코인·뽑기 밸런스 → `ECONOMY.md` → `BALANCE.md`
-- 선생님 기능 요청 → `TEACHER.md` 또는 [GitHub Issues](https://github.com/dudwnssss/zootopia-docs/issues)
+- 선생님 기능 요청 → 슬랙에 말하거나 [GitHub Issues](https://github.com/dudwnssss/zootopia-docs/issues/new) 직접 열기
+
+#### GitHub Issue 라벨
+
+| 라벨 | 의미 |
+|------|------|
+| `status: 컨펌대기` | 영준 컨펌 기다리는 중 |
+| `status: 진행중` | 개발 진행 중 |
+| `status: 완료` | 개발 완료 |
+| `status: 보류` | 일단 보류 |
+| `cat: 선생님기능` | 가이드 관련 기능 |
+| `cat: 학생기능` | 빌더 관련 기능 |
+| `cat: UI/UX` | 화면/디자인 개선 |
+| `cat: 인프라` | DB, 아키텍처 관련 |
+| `priority: high` | 빠르게 |
+| `priority: mid` | 보통 |
+| `priority: low` | 나중에 |
 
 ### 영준 (개발)
 - 기능 개발 전 해당 문서 확인
