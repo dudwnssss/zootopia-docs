@@ -1,7 +1,10 @@
 # Zootopia 경제 설계
 
 > 코인이 어디서 들어오고 어디로 나가는지 정의하는 문서.
-> 수치 변경 시 BALANCE.md + game-config.ts도 함께 수정.
+> **원칙은 여기서, 수치 정답은 [BALANCE.md](./BALANCE.md)에서.**
+>
+> 📌 **함께 읽기**: [BALANCE.md](./BALANCE.md) — 구체적 수치 · [WORLDBUILDING.md](./WORLDBUILDING.md) — 스카우트/코인 세계관 · [MISSION_DESIGN.md](./MISSION_DESIGN.md) — 미션 보상 설계
+> 수치 변경 시: 이 문서 원칙 확인 → `BALANCE.md` 수정 → `src/lib/game-config.ts` 반영
 
 ---
 

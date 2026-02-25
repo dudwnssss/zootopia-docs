@@ -1,5 +1,8 @@
 # Zootopia 세계관 v2 — "동물 마을 빌더"
 
+> 📌 **함께 읽기**: [CHARACTERS.md](./CHARACTERS.md) — 캐릭터 상세 · [MISSION_DESIGN.md](./MISSION_DESIGN.md) — 캐릭터별 미션 · [ECONOMY.md](./ECONOMY.md) — 코인/스카우트 경제
+> 이 문서가 정의하는 **용어와 등급 체계**는 모든 다른 문서의 기반입니다.
+
 ## 컨셉
 빈 땅에 동물 마을을 세우자. 퀘스트를 완료해서 코인을 모으고, 코인으로 새 동물 주민을 스카우트해서 마을을 키워나가는 게임.
 

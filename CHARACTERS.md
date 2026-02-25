@@ -1,5 +1,8 @@
 # Zootopia 캐릭터 설정집
 
+> 📌 **함께 읽기**: [WORLDBUILDING.md](./WORLDBUILDING.md) — 등급 체계·세계관 · [MISSION_DESIGN.md](./MISSION_DESIGN.md) — 캐릭터별 미션 설계 · [BALANCE.md](./BALANCE.md) — 가챠 확률 수치
+> 각 캐릭터의 **직업과 성격**이 MISSION_DESIGN.md의 미션 매트릭스로 이어집니다.
+
 ## 세계관 배경
 
 옛날, 다섯 영역으로 이루어진 땅 **Zootopia**에는 동물들이 마을을 이루고 살았다.

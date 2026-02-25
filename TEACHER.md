@@ -2,6 +2,9 @@
 
 > 선생님(가이드) 입장에서 사용하는 기능들의 명세.
 > 기능 요청/아이디어는 → **[GitHub Issues](https://github.com/dudwnssss/zootopia-docs/issues)** 에 올려줘.
+>
+> 📌 **함께 읽기**: [UX_FLOW.md](./UX_FLOW.md) — 화면 경로·IA 배치 기준 · [MISSION_DESIGN.md](./MISSION_DESIGN.md) — 미션 설계 원칙
+> 각 기능의 **화면 경로**(`/teacher/notices` 등)는 UX_FLOW.md에서 정의합니다.
 
 ---
 

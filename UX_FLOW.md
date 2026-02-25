@@ -1,8 +1,10 @@
 # Zootopia UX 플로우
 
 > 빌더(학생)와 가이드(선생님)가 앱에서 어떻게 움직이는지 정의하는 문서.
-> 화면 개발 기준이 되는 파일.
-> **기능 배치 기준 및 IA 원칙도 이 문서에서 관리.**
+> 화면 개발 기준이 되는 파일. **기능 배치 기준 및 IA 원칙도 이 문서에서 관리.**
+>
+> 📌 **함께 읽기**: [TEACHER.md](./TEACHER.md) — 선생님 기능 상세 명세 · [WORLDBUILDING.md](./WORLDBUILDING.md) — 용어 정의 · [MISSION_DESIGN.md](./MISSION_DESIGN.md) — 미션 설계
+> 화면 경로(`/teacher/notices` 등)는 이 문서가 정의하고, TEACHER.md가 해당 기능을 상세 설명합니다.
 
 ---
 

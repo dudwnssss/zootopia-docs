@@ -1,7 +1,10 @@
 # Zootopia Balance Sheet
 
-> 게임 수치 근거 문서. 수치 변경 시 이 파일도 업데이트.
-> 코드 수치: `src/lib/game-config.ts`
+> **수치 정답 문서.** 가챠 확률, 비용, 스탯 등 모든 게임 수치는 이 파일이 기준.
+> 수치 변경 시 이 파일 먼저 수정 → `src/lib/game-config.ts` 반영.
+>
+> 📌 **함께 읽기**: [ECONOMY.md](./ECONOMY.md) — 경제 흐름 원칙 · [CHARACTERS.md](./CHARACTERS.md) — 등급 체계
+> **경제 원칙은 ECONOMY.md, 구체적 숫자는 이 파일.** 숫자만 바꿀 때는 여기만 수정.
 
 ---
 

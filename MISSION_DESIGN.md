@@ -1,5 +1,8 @@
 # Zootopia 미션 설계 가이드
 
+> 📌 **함께 읽기**: [CHARACTERS.md](./CHARACTERS.md) — 캐릭터 상세 정보 · [WORLDBUILDING.md](./WORLDBUILDING.md) — 용어·세계관 · [UX_FLOW.md](./UX_FLOW.md) — 미션 화면 흐름
+> 이 문서의 **캐릭터×미션 매트릭스**는 CHARACTERS.md의 캐릭터 설정을 기반으로 합니다.
+
 ## 핵심 철학
 **"주민이 내주는 미션 = 그 주민의 삶에서 나온 것"**
 
